@@ -153,6 +153,8 @@ recurrent depressive disorder (F33.-). These grades of severity are specified to
 
 ---
 <img width="1491" height="683" alt="image" src="https://github.com/user-attachments/assets/b1e5b8bc-a316-43cd-9e12-141d0f0d5937" />
+<img width="1455" height="618" alt="image" src="https://github.com/user-attachments/assets/4b5c08b4-35d3-4bd1-be9b-6a7d9ab11f60" />
+
 ## 8. Conclusion
 
 This notebook demonstrates a working RAG pipeline on Google Colab using open-source tools. While simplified for resource constraints, it effectively illustrates key concepts in semantic retrieval and LLM-based question answering.
