@@ -85,11 +85,8 @@ This project implements a simple, functional prototype of a document-based Quest
 
 This README and code were partially generated using Gemini. Tasks included:
 
-* Structuring the Colab notebook
-* Boilerplate code for each RAG component
-* Detailed code comments and markdown documentation
-* Model selection guidance
-* Debugging and QA pipeline refinements
+*Providing recommendations for suitable open-source LLMs compatible with resource constraints.
+*Supporting the refinement and debugging of various code segments.
 
 ---
 
