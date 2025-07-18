@@ -2,7 +2,7 @@
 
 ## **1\. Objective**
 
-This project implements a simple, functional prototype of a document-based Question-Answering (QA) system using Retrieval-Augmented Generation (RAG) powered by an open-source Large Language Model (LLM). This system is designed to demonstrate an end-to-end RAG pipeline, from document ingestion to answer generation based on retrieved context, now accessible via a user-friendly web interface.
+This project implements a simple, functional prototype of a document-based Question-Answering (QA) system using Retrieval-Augmented Generation (RAG) powered by an open-source Large Language Model (LLM). This system is designed to demonstrate an end-to-end RAG pipeline, from document ingestion to answer generation based on retrieved context.
 
 ## **2\. Assignment Scope & Implemented Components**
 
@@ -70,8 +70,7 @@ textual continuity between adjacent chunks, reducing the chance of losing critic
 This project, including both the code and this documentation, leveraged AI-powered development tools to enhance efficiency and accelerate the development process. These tools were utilized for:
 
 * Assisting in structuring the Google Colab notebook and overall project layout.  
-* Generating foundational code snippets for core RAG components (document processing, embedding, vector store interaction, LLM integration).  
-* Aiding in the creation of comprehensive comments and explanations within the code and documentation.  
+* Generating foundational code snippets for core RAG components ( vector store interaction) 
 * Providing recommendations for suitable open-source LLMs compatible with resource constraints.  
 * Supporting the refinement and debugging of various code segments.
 
