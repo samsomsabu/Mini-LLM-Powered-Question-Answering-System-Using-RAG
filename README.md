@@ -15,7 +15,8 @@ The following required components from the assignment have been implemented:
   * **Method:** langchain.text\_splitter.RecursiveCharacterTextSplitter is used to split the loaded document into manageable chunks.  
   * **Parameters:**  
     * chunk\_size: \[400\] characters. This size was chosen to ensure that each chunk contains sufficient context while remaining small enough for efficient embedding and retrieval.  
-    * chunk\_overlap: \[40\] characters. Overlap is included to help maintain contextual continuity between adjacent chunks, reducing the chance of losing critical information at chunk boundaries.  
+    * chunk\_overlap: \[40\] characters. Overlap is included to help maintain con
+textual continuity between adjacent chunks, reducing the chance of losing critical information at chunk boundaries.  
   * **Justification:** RecursiveCharacterTextSplitter is robust and tries different separators (\\n\\n, \\n, , \`\`) to create semantically coherent chunks, which is beneficial for diverse document types.
 
 ### **2.2. Embedding and Vector Store**
@@ -104,7 +105,9 @@ This project, including both the code and this documentation, leveraged AI-power
 * **Answer Quality:** The quality of answers is directly dependent on the chosen LLM and the relevance of the retrieved chunks. TinyLlama is a small model, and while functional, its generative capabilities are limited compared to larger models.
 
 ## **8\. Sample Output for the Provided Query**
-
+<img width="1455" height="618" alt="Screenshot 2025-07-18 131207" src="https://github.com/user-attachments/assets/12dcc6b2-d021-4a09-bfa2-68edb8021141" />
+<img width="1491" height="683" alt="Screenshot 2025-07-18 131033" src="https://github.com/user-attachments/assets/76d670f8-7946-4fc0-a5bb-d5c3c2c3f615" />
+<img width="620" height="581" alt="Screenshot 2025-07-18 131023" src="https://github.com/user-attachments/assets/724234a2-7f2d-4615-8039-92ce7dbadf0e" />
 <img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/01d50794-ce85-4e6f-91ea-b6d15d09ae12" />
 <img width="1915" height="964" alt="image" src="https://github.com/user-attachments/assets/961a55bd-6037-4e88-85e1-fed74542ce90" />
 
