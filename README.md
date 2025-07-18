@@ -81,12 +81,14 @@ This project implements a simple, functional prototype of a document-based Quest
 
 * Google Colab (Free-tier with T4 GPU)
 
-### 4.4 Where AI Tools Were Used
+## 4.1. Use of AI-Powered Development Tools
 
-This README and code were partially generated using Gemini. Tasks included:
+This project, including both the code and this documentation, leveraged AI-powered development tools (e.g., ChatGPT by OpenAI) to enhance efficiency and accelerate the development process. These tools were utilized for:
 
-*Providing recommendations for suitable open-source LLMs compatible with resource constraints.
-*Supporting the refinement and debugging of various code segments.
+* Generating foundational code snippets for core RAG components (embedding, vector store interaction).
+* Providing recommendations for suitable open-source LLMs compatible with resource constraints.
+* Supporting the refinement and debugging of various code segments.
+
 
 ---
 
